@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nicochristiegit&show_icons=true&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicochristiegit&layout=compact" />
+
 <!--
 **nicochristiegit/nicochristiegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
